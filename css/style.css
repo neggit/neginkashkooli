@@ -805,6 +805,10 @@ Parallax
 	.boxed-grey {
 		margin-bottom: 30px;
 	}
+	
+	.work-img{
+		width: 300px;
+	}
 
 	
 }
@@ -831,6 +835,10 @@ Parallax
 		border: 2px solid #fff;
 		border-radius: 50%;
 		font-size: 20px;
+	}
+	
+	.work-img{
+		width: 300px;
 	}
 	
 }
